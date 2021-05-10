@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cocossd-object-detector/static/css/main.f49846a9.chunk.css",
+    "main.js": "/cocossd-object-detector/static/js/main.0c1f5e60.chunk.js",
+    "main.js.map": "/cocossd-object-detector/static/js/main.0c1f5e60.chunk.js.map",
+    "runtime-main.js": "/cocossd-object-detector/static/js/runtime-main.16b201ab.js",
+    "runtime-main.js.map": "/cocossd-object-detector/static/js/runtime-main.16b201ab.js.map",
+    "static/js/2.ba1b35fc.chunk.js": "/cocossd-object-detector/static/js/2.ba1b35fc.chunk.js",
+    "static/js/2.ba1b35fc.chunk.js.map": "/cocossd-object-detector/static/js/2.ba1b35fc.chunk.js.map",
+    "static/js/3.cd3c888f.chunk.js": "/cocossd-object-detector/static/js/3.cd3c888f.chunk.js",
+    "static/js/3.cd3c888f.chunk.js.map": "/cocossd-object-detector/static/js/3.cd3c888f.chunk.js.map",
+    "index.html": "/cocossd-object-detector/index.html",
+    "static/css/main.f49846a9.chunk.css.map": "/cocossd-object-detector/static/css/main.f49846a9.chunk.css.map",
+    "static/js/2.ba1b35fc.chunk.js.LICENSE.txt": "/cocossd-object-detector/static/js/2.ba1b35fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b201ab.js",
+    "static/js/2.ba1b35fc.chunk.js",
+    "static/css/main.f49846a9.chunk.css",
+    "static/js/main.0c1f5e60.chunk.js"
+  ]
+}
