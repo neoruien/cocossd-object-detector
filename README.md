@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# COCOSSD Object Detector
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot](https://user-images.githubusercontent.com/65069982/117696114-8b780500-b1f3-11eb-9768-73af50ea4c8a.png)
+
+You can view the project live [here](https://neoruien.github.io/cocossd-object-detector/), or by running in localhost as shown below:
 
 ## Available Scripts
 
