@@ -20,12 +20,14 @@ function App() {
       webcamRef.current.video.readyState === 4
     ) {
       // Configure dimensions
-      webcamRef.current.video.width = 640;
-      webcamRef.current.video.height = 480;
-      canvasRef.current.width = 640;
-      canvasRef.current.height = 480;
-      // Start detections
       const video = webcamRef.current.video;
+      const videoWidth = webcamRef.current.video.videoWidth;
+      const videoHeight = webcamRef.current.video.videoHeight;
+      webcamRef.current.video.width = videoWidth;
+      webcamRef.current.video.height = videoHeight;
+      canvasRef.current.width = videoWidth;
+      canvasRef.current.height = videoHeight;
+      // Start detecting objects
       const obj = await net.detect(video);
       // Draw bounding box
       const ctx = canvasRef.current.getContext("2d");
