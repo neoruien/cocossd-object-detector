@@ -1,8 +1,10 @@
 # COCOSSD Object Detector
 
+This is a simple webapp that detects objects from the webcam in real-time and displays the class where each object belongs to.
+
 ![Screenshot](https://user-images.githubusercontent.com/65069982/117696114-8b780500-b1f3-11eb-9768-73af50ea4c8a.png)
 
-You can view the project live [here](https://neoruien.github.io/cocossd-object-detector/), or by running in localhost as shown below:
+You can view the project live [here](https://neoruien.github.io/cocossd-object-detector/), or by running in localhost as shown below. The webcam has to be enabled for the object detector to function well.
 
 ## Available Scripts
 
